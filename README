@@ -1,0 +1,9 @@
+Authors: Kenneth Xue - kxue01
+         Alyssa Rose - arose10
+
+Purpose: A program that removes black edges from a PBM image. 
+
+Usage: ./unblackedges [filename]
+
+Implementation: Everything was impletemented correctly. For unblackedges,
+                we used BFS as our main method, more explaination in the file.
